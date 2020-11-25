@@ -1,7 +1,8 @@
 # VS CODE Bootstrap custom snippets 
 
-Author: Anton Vlasiuk - bootstrap VS CODE
+![Preview](https://github.com/AvgustPol/vs-code-snippets/blob/master/VS%20CODE%20bootstrap%20snippet.gif?raw=true)
 
+Author: Anton Vlasiuk - bootstrap VS CODE
 Follow me: https://www.linkedin.com/in/vlasiuk-anton/
 
 ```javascript
@@ -39,4 +40,3 @@ Follow me: https://www.linkedin.com/in/vlasiuk-anton/
 }
 ```
 
-![Preview](https://github.com/AvgustPol/vs-code-snippets/blob/master/VS%20CODE%20bootstrap%20snippet.gif?raw=true)
