@@ -39,4 +39,4 @@ Follow me: https://www.linkedin.com/in/vlasiuk-anton/
 }
 ```
 
-![Preview](#)
+![Preview](https://github.com/AvgustPol/vs-code-snippets/blob/master/VS%20CODE%20bootstrap%20snippet.gif?raw=true)
