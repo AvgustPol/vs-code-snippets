@@ -1,7 +1,7 @@
 # VS CODE Bootstrap custom snippets 
-
 ![Preview](https://github.com/AvgustPol/vs-code-snippets/blob/master/VS%20CODE%20bootstrap%20snippet.gif?raw=true)
 
+Custom created snippets for work with bootstrap to improve development speed.
 Author: Anton Vlasiuk - bootstrap VS CODE
 Follow me: https://www.linkedin.com/in/vlasiuk-anton/
 
