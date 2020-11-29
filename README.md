@@ -5,9 +5,20 @@ Custom created snippets for work with bootstrap to improve development speed.
 Author: Anton Vlasiuk - bootstrap VS CODE
 Follow me: https://www.linkedin.com/in/vlasiuk-anton/
 
+Snippets
+Below is a list of all available snippets and the triggers of each one. The ⇥ means the TAB key.
+
+
+| Trigger       | Content           
+| ------------- |:-------------:|
+| cont  ⇥     | [ Bootstrap ] Create div with **"container"** class" |
+| row  ⇥    | [ Bootstrap ] Create div with **"row"** class" |
+| col  ⇥ | [ Bootstrap ] Create div with **"col"** class"      |
+
+
 ```javascript
 {
-  	"[ Bootstrap ] Create container div": {
+  	"[ Bootstrap ] Create div with container class" {
 		"prefix": "cont",
 		"body": [
 			"<div className=\"container\">",
@@ -17,7 +28,7 @@ Follow me: https://www.linkedin.com/in/vlasiuk-anton/
 		],
 		"description": "Create container div "
 	},
-	"[ Bootstrap ] Create row div": {
+	"[ Bootstrap ] Create div with row class": {
 		"prefix": "row",
 		"body": [
 			"<div className=\"row\">",
@@ -27,7 +38,7 @@ Follow me: https://www.linkedin.com/in/vlasiuk-anton/
 		],
 		"description": "Create row div "
 	},
-	"[ Bootstrap ] Create col div": {
+	"[ Bootstrap ] Create div with col class": {
 		"prefix": "col",
 		"body": [
 			"<div className=\"col\">",
